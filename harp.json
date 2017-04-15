@@ -1,0 +1,9 @@
+{
+	"domains":["joebartelmo.com"],
+	"globals": {
+		"me": {
+			"name": "Joe Bartelmo",
+			"title": "Software Engineer"			
+		}
+	}
+}
