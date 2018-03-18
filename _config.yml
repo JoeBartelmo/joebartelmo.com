@@ -1,0 +1,125 @@
+title: Joe Bartelmo
+name: Joe Bartelmo
+title_separator: "|"
+email: joebartelmo@gmail.com
+description: >- # this means to ignore newlines until "baseurl:"
+    Blog and personal development website. Computing Security, Computer Vision,
+    Image processing, general software development and qualms thereof.
+baseurl: ""
+url: "http://joebartelmo.com"
+github_username:  joebartelmo
+
+# Build settings
+markdown: kramdown
+theme: minimal-mistakes-jekyll
+remote_theme: "mmistakes/minimal-mistakes"
+minimal_mistakes_skin: "contrast" 
+# "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum" "sunrise"
+plugins:
+  - jekyll-feed
+  - jekyll-sitemap
+  - jekyll-paginate
+  - jekyll-gist
+  - jemoji
+
+whitelist:
+  - jekyll-feed
+  - jekyll-sitemap
+  - jekyll-paginate
+  - jekyll-gist
+  - jemoji
+
+# Sass/SCSS
+sass:
+    style: compressed
+permalink: /:categories/:title/
+timezone: America/New_York
+
+social:
+    links:
+        - "https://www.linkedin.com/in/joebartelmo"
+
+author:
+    name: "Joe Bartelmo"
+    avatar: "/assets/images/me.jpg"
+    bio: "Blog and personal development website. Computing Security, Computer Vision, Image processing, general software development and qualms thereof."
+    email: "joebartelmo@gmail.com"
+    uri: "http://joebartelmo.com"
+    linkedin: "joebartelmo"
+    github: "joebartelmo"
+    stackoverflow: "1938047/joe-bartelmo"
+    bitbucket: "joebartelmo"
+
+# Collections
+collections:
+  docs:
+    output: true
+    permalink: /:collection/:path/
+  portfolio:
+    output: true
+    permalink: /:collection/:path/
+
+# Defaults
+defaults:
+  # _posts
+  - scope:
+      path: ""
+      type: posts
+    values:
+      layout: single
+      author_profile: true
+      read_time: true
+      comments: false
+      share: true
+      related: true
+  # _pages
+  - scope:
+      path: ""
+      type: pages
+    values:
+      layout: single
+      author_profile: true
+  # _portfolio
+  - scope:
+      path: ""
+      type: portfolio
+    values:
+      layout: single
+      author_profile: false
+share: true
+
+# Archives
+#  Type
+#  - GitHub Pages compatible archive pages built with Liquid ~> type: liquid (default)
+#  - Jekyll Archives plugin archive pages ~> type: jekyll-archives
+#  Path (examples)
+#  - Archive page should exist at path when using Liquid method or you can
+#    expect broken links (especially with breadcrumbs enabled)
+#  - <base_path>/tags/my-awesome-tag/index.html ~> path: /tags/
+#  - <base_path/categories/my-awesome-category/index.html ~> path: /categories/
+#  - <base_path/my-awesome-category/index.html ~> path: /
+category_archive:
+  type: liquid
+  path: /categories/
+tag_archive:
+  type: liquid
+  path: /tags/
+# https://github.com/jekyll/jekyll-archives
+# jekyll-archives:
+#   enabled:
+#     - categories
+#     - tags
+#   layouts:
+#     category: archive-taxonomy
+#     tag: archive-taxonomy
+#   permalinks:
+#     category: /categories/:name/
+#     tag: /tags/:name/
+
+
+# HTML Compression
+# - http://jch.penibelst.de/
+compress_html:
+  clippings: all
+  ignore:
+envs: development
