@@ -13,7 +13,7 @@ github_username:  joebartelmo
 markdown: kramdown
 theme: minimal-mistakes-jekyll
 remote_theme: "mmistakes/minimal-mistakes"
-minimal_mistakes_skin: "contrast" 
+minimal_mistakes_skin: "dirt" 
 # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum" "sunrise"
 plugins:
   - jekyll-feed
@@ -34,11 +34,26 @@ sass:
     style: compressed
 permalink: /:categories/:title/
 timezone: America/New_York
+encoding: "utf-8"
+markdown_ext: "markdown,mkdown,mkdn,mkd,md"
+
+
+# Conversion
+markdown: kramdown
+highlighter: rouge
+lsi: false
+excerpt_separator: "\n\n"
+incremental: false
 
 social:
     links:
         - "https://www.linkedin.com/in/joebartelmo"
-
+include:
+      - _pages
+      - _posts
+      - _computer_vision
+      - _development
+      - _security
 author:
     name: "Joe Bartelmo"
     avatar: "/assets/images/me.jpg"
@@ -52,10 +67,13 @@ author:
 
 # Collections
 collections:
-  docs:
+  security:
     output: true
     permalink: /:collection/:path/
-  portfolio:
+  computer_vision:
+    output: true
+    permalink: /:collection/:path/
+  development:
     output: true
     permalink: /:collection/:path/
 
@@ -79,14 +97,43 @@ defaults:
     values:
       layout: single
       author_profile: true
+      read_time: true
+      comments: false
+      share: true
+      related: true
   # _portfolio
   - scope:
       path: ""
-      type: portfolio
+      type: security
     values:
       layout: single
-      author_profile: false
-share: true
+      author_profile: true
+      read_time: true
+      comments: false
+      share: true
+      related: true
+  # _computer_vision
+  - scope:
+      path: ""
+      type: computer_vision
+    values:
+      layout: single
+      author_profile: true
+      read_time: true
+      comments: false
+      share: true
+      related: true
+  # _development
+  - scope:
+      path: ""
+      type: development
+    values:
+      layout: single
+      author_profile: true
+      read_time: true
+      comments: false
+      share: true
+      related: true
 
 # Archives
 #  Type

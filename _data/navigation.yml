@@ -1,0 +1,8 @@
+# main links
+main:
+  - title: "Computer Security"
+    url: /security/
+  - title: "Computer Vision"
+    url: /computer_vision/
+  - title: "General Projects"
+    url: /development/
