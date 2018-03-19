@@ -13,7 +13,7 @@ github_username:  joebartelmo
 markdown: kramdown
 theme: minimal-mistakes-jekyll
 remote_theme: "mmistakes/minimal-mistakes"
-minimal_mistakes_skin: "dirt" 
+minimal_mistakes_skin: "contrast" 
 # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum" "sunrise"
 plugins:
   - jekyll-feed
