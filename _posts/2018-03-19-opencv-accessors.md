@@ -10,6 +10,9 @@ tags:
   - accessor
   - vision
   - computer vision
+toc: true
+toc_label: "Table of Contents"
+toc_icon: "cog"
 ---
 Some things simply do not come naturally when we attempt to process data in OpenCV. In this article we're going to focus on using `at<T>` in three dimensions and how I went about figuring out how to use it.
 

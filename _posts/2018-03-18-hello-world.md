@@ -1,14 +1,9 @@
 ---
-title: "Testing jekyll minimalist theme"
+title: "Hello World"
 categories:
-  - security
+  - development
 tags:
-  - content
-  - css
-  - edge case
-  - html
-  - layout
-  - title
+  - development
 ---
 
-Testing Jekyll
+This is just a test to see if I linked everything together properly
