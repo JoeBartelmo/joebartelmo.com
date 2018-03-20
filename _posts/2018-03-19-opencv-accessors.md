@@ -70,7 +70,7 @@ I think for most cases the above will perform fine, and you will not have an imm
 >i1: Index along the dimension 1
 >
 >i2: Index along the dimension 2
->
+
 Although there are no instances in the documentation of its use, so i figure we are meant to use it with the band as the third dimensional, like so:
 
 _Incorrect Accessing_
@@ -151,7 +151,7 @@ _Tp& Mat::at(int i0, int i1, int i2)
 }
 ```
 
-Let's take a look at the immense implementation differences between `at(i0)`, ` at(i0,i1)` and `at(i0,i1,i2)`. Look past the obscure OpenCV debug assertions and take a look at the math to compute the point we are referencing. We're simply accessing at the ptr which looks to be a reference to [this](https://github.com/opencv/opencv/blob/66f3c1ae79030ab3cd36add4246a97f92920af84/modules/core/include/opencv2/core/mat.hpp#L2811-L2812) line of code linking to [this](https://github.com/opencv/opencv/blob/379ea15d1664a37a2f8851ce00e5feb8ce5b8d8d/modules/core/include/opencv2/core/mat.inl.hpp#L1002-L1010) block of code
+Let's take a look at the immense implementation differences between `at(i0)`, `at(i0,i1)` and `at(i0,i1,i2)`. Look past the obscure OpenCV debug assertions and take a look at the math to compute the point we are referencing. We're simply accessing at the ptr which looks to be a reference to [this](https://github.com/opencv/opencv/blob/66f3c1ae79030ab3cd36add4246a97f92920af84/modules/core/include/opencv2/core/mat.hpp#L2811-L2812) line of code linking to [this](https://github.com/opencv/opencv/blob/379ea15d1664a37a2f8851ce00e5feb8ce5b8d8d/modules/core/include/opencv2/core/mat.inl.hpp#L1002-L1010) block of code
 ```c++
 (_Tp*)(data + i0 * step.p[0] + i1 * step.p[1] + i2 * step.p[2]);
 ```
