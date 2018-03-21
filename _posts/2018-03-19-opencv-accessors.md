@@ -181,6 +181,7 @@ for (unsigned int band = 0; band < lut.channels(); band++) {
         }  
     }  
 }
+**Note: See OpenCV Team Response Section, the above result is invalid, please use naive solution**
 ```
 **Note:** It's possible that the above solution is improper, if you're paranoid use one of the naive solutions, i will follow up with the OpenCV team to see if this is a possible bug.
 
@@ -190,4 +191,7 @@ for (unsigned int band = 0; band < lut.channels(); band++) {
 * If you can look at the source code first
 * Try not to hate yourself
 
+### OpenCV Team Response
 
+Edit: 03/21/2018
+I filed an open issue with the OpenCV Team and they got back to me fairly quickly (which is a super exciting thing if you know anything about the open source community). The solution provided is invalid. Apparently the 3d accessor is specifically an artifact from Mat3D and is not intended to be used in Mat (as it is considered an array). Well, I'm still glad I went through all this pain, I got to learn how CV stores it's matricies under the hood. But if this were me I think i would remove this accessor to avoid a headache for someone else (or at least document it).
