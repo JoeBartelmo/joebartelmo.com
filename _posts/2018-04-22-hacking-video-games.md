@@ -39,7 +39,7 @@ Now, Skyrim has an enormous amount of data they store in their save files, so we
  * Repeat n times (recommend ~5 to have a solid group of saves)
  * Have the game open off to the side with all save games loadable.
  
- ### To the Code
+#### To the Code
  
  So now let's get into the nitty-gritty details of our operation. We will be performing our topdown approach to the header of the Skyrim file. Observe the following files below:
 
