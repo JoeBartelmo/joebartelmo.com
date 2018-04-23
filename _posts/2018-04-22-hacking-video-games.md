@@ -1,7 +1,7 @@
 ---
 title: "Hacking Video Games: A Software Engineering Approach"
 categories:
-  - computer_security
+  - security
 tags:
   - python
   - security
