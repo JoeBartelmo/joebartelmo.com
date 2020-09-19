@@ -19,11 +19,11 @@ A pretty easy DIY electrical install through an unfinished area.
 
 Total Price: ~435$
 
-6 gauge copper wire  (150ft) - 250$ - my inlet location is roughly 100ft from my panel, just got some extra
-Inlet - 40$
-Conduit (150ft) - 75$
-Conduit fittings - 10$
-Interlock kit - 70$
+* 6 gauge copper wire  (150ft) - 250$ - my inlet location is roughly 100ft from my panel, just got some extra
+* Inlet - 40$
+* Conduit (150ft) - 75$
+* Conduit fittings - 10$
+* Interlock kit - 70$
 
 Money saved from professional install - ~1-2k. There are 3 ways to make a generator "to code". The first is an interlock (piece of metal that keeps you from turning on the generator without disabling the main breaker), the second is a transfer switch (basically a sub panel of ~10 circuits that you can transfer power to the generator at will), and the third is the "whole house" transfer switch (similar to interlock, except this switch comes before the main breaker so you don't need to flip that off). The latter 2 are $400+ just for parts. Some running up to 1.5k for an "automatic" transfer switch. Most electricians will talk you into (2) because it takes a good bit of time to install and is the most standard. You get charged per hour for an electrician to do this.
 
