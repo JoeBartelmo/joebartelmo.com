@@ -1,0 +1,49 @@
+I"�<p>A pretty easy DIY electrical install through an unfinished area.</p>
+
+<p>Total Price: ~435$</p>
+
+<p>6 gauge copper wire  (150ft) - 250$ - my inlet location is roughly 100ft from my panel, just got some extra
+Inlet - 40$
+Conduit (150ft) - 75$
+Conduit fittings - 10$
+Interlock kit - 70$</p>
+
+<p>Money saved from professional install - ~1-2k. There are 3 ways to make a generator “to code”. The first is an interlock (piece of metal that keeps you from turning on the generator without disabling the main breaker), the second is a transfer switch (basically a sub panel of ~10 circuits that you can transfer power to the generator at will), and the third is the “whole house” transfer switch (similar to interlock, except this switch comes before the main breaker so you don’t need to flip that off). The latter 2 are $400+ just for parts. Some running up to 1.5k for an “automatic” transfer switch. Most electricians will talk you into (2) because it takes a good bit of time to install and is the most standard. You get charged per hour for an electrician to do this.</p>
+
+<h3 id="finished-product-photos">Finished Product photos</h3>
+
+<p>Interesting parts:</p>
+
+<figure class="third">
+	<a href="/assets/images/generator-inlet/closed-inlet.jpg"><img src="/assets/images/generator-inlet/closed-inlet.jpg" /></a>
+	<a href="/assets/images/generator-inlet/far-back-inlet.jpg"><img src="/assets/images/generator-inlet/far-back-inlet.jpg" /></a>
+	<a href="/assets/images/generator-inlet/box-connection.jpg"><img src="/assets/images/generator-inlet/box-connection.jpg" /></a>
+	<figcaption>Left - Conduit inlet, Middle - perspective view with garage ft my old bathroom sink, Right - ingress into the electrical box</figcaption>
+</figure>
+
+<p>Conduit:</p>
+
+<figure class="third">
+	<a href="/assets/images/generator-inlet/conduit1.jpg"><img src="/assets/images/generator-inlet/conduit1.jpg" /></a>
+	<a href="/assets/images/generator-inlet/conduit.jpg"><img src="/assets/images/generator-inlet/conduitjpg" /></a>
+	<a href="/assets/images/generator-inlet/interlock.jpg"><img src="/assets/images/generator-inlet/interlock.jpg" /></a>
+	<figcaption>Left - conduit on opposite side of inlet, Middle - conduit on opposite side of electrical panel, Right - interlock kit install</figcaption>
+</figure>
+
+<h3 id="why-i-did-it">Why I did it</h3>
+
+<p>We lost power like 5 times within the first year living hear, more times than anywhere i’ve ever lived. The power lines run through a mass of trees so usually a tree falls on the line and disconnects it from the transformer. The longest we were without power was 3.5 days. Gotta love living in the country. After the 3rd time my dad bought a new generator and gave me his hand-me-down. I have a fair bit of knowledge of electrical work, so what I did was splice the cable and feed it into the panel with a breaker i had laying around. Worked, but i would have to run the line through a window and would let bugs in. This would take about 30 minutes to hook it up, and if it was wet outside it was a struggle. Needless to say this is not “to code” either and it freaked out my wife a bit.</p>
+
+<h3 id="how-i-did-it">How I did it</h3>
+
+<p>The worst part of this was boring the holes through the stucco and concrete block. I was very cheap and just used what i had laying around. I had 4 bits of increasing diameter, and got it up to about half an inch. I needed a full inch for conduit clearance. I took a chisel and broke apart bits of the wall after that, couldn’t get it even through to the other side of the block. I had a galvanized iron pipe laying around (courteous of previous owner). I took the pipe, and a sledge, and hammered it the rest of the way through until i was clear of the other side. Luckily living with 5 acres means i have no neighbors to question my idiocy. I did this twice, once for the panel, and once for the inlet install.</p>
+
+<p>I like to keep things identical with electrical code for future inspections. Before any electrical project i read about what i’ll be doing</p>
+
+<ol>
+  <li>Punch the holes for the inlet - drill, many drill bits, iron pipe (see above) - this would be easier if your house isn’t stucco or block.</li>
+  <li>Measure length of wire needed, cut, then run through conduit. - electrical lubricant (or fishing wire), wire cutter, patience</li>
+  <li>Install inlet - level, conduit fitting, pliers, exacto knife, drill, caulk, some anchors
+ a. choose where you want it, put the box up with a level, and drill the holes.</li>
+</ol>
+:ET
