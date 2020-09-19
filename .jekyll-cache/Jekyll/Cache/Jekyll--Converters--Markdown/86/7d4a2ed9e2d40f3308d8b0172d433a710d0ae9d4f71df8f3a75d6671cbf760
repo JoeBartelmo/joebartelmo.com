@@ -1,0 +1,33 @@
+I";<ul class="toc__menu">
+  <li><a href="#understanding-file-parsing">Understanding File Parsing</a></li>
+  <li><a href="#top-down-approach">Top Down Approach</a>
+    <ul>
+      <li><a href="#tldr-generalized-explicit-recap-thus-far">TLDR Generalized Explicit Recap Thus far</a></li>
+      <li><a href="#to-the-code">To the Code</a></li>
+      <li><a href="#continuation-of-top-down">Continuation of Top Down</a></li>
+      <li><a href="#file-structures">File Structures</a></li>
+      <li><a href="#using-file-structuring-knowledge-to-our-advantage">Using File Structuring knowledge to our advantage</a></li>
+      <li><a href="#updated-code-with-current-extrapolated-information">Updated Code with Current Extrapolated Information</a></li>
+      <li><a href="#moving-on">Moving on</a></li>
+    </ul>
+  </li>
+  <li><a href="#alternative-approaches">Alternative Approaches</a>
+    <ul>
+      <li><a href="#decompilation-approach">Decompilation Approach</a>
+        <ul>
+          <li><a href="#important-disclaimer">Important Disclaimer:</a></li>
+        </ul>
+      </li>
+      <li><a href="#searching-approach-">Searching Approach *</a>
+        <ul>
+          <li><a href="#coding-search-approach">Coding Search Approach</a></li>
+          <li><a href="#search-code">Search Code</a></li>
+          <li><a href="#checksum-hunting">Checksum Hunting</a></li>
+          <li><a href="#deciding-what-algorithm-they-used">Deciding what Algorithm they used</a></li>
+          <li><a href="#deciding-what-data-to-hash">Deciding what data to hash</a></li>
+        </ul>
+      </li>
+    </ul>
+  </li>
+</ul>
+:ET

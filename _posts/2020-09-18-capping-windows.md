@@ -23,19 +23,20 @@ Total Price: ~80$
 
 Sorry for potato quality on before photos, i took some of them half way through.
 
-(/assets/images/capping/old1.png)
+![Old3](/assets/images/capping/old1.jpg){:class="img-responsive"}
 
-(/assets/images/capping/old2.png)
 
-(/assets/images/capping/old3.png)
+![Old2](/assets/images/capping/old2.jpg){:class="img-responsive"}
+
+![Old1](/assets/images/capping/old3.jpg){:class="img-responsive"}
 
 ### After
 
-(/assets/images/capping/new1.png)
+![New1](/assets/images/capping/new1.jpg){:class="img-responsive"}
 
-(/assets/images/capping/new2.png)
+![New2](/assets/images/capping/new2.jpg){:class="img-responsive"}
 
-(/assets/images/capping/new3.png)
+![New3](/assets/images/capping/new3.jpg){:class="img-responsive"}
 
 ### Why I did it
 
@@ -65,6 +66,6 @@ The exterior of your house does not matter for capping windows. You cap windows 
 I recommend if you make a jig bending the metal with a long piece of wood so the bend is even and you get no kinks
 
 
-(/assets/images/capping/bend1.png)
+![bend1](/assets/images/capping/bend1.jpg){:class="img-responsive"}
 
-(/assets/images/capping/bend2.png)
+![bend2](/assets/images/capping/bend2.jpg){:class="img-responsive"}
