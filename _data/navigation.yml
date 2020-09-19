@@ -8,3 +8,5 @@ main:
     url: /development/
   - title: "Resume"
     url: /resume/
+  - title: "Home DIY"
+    url: /diy/

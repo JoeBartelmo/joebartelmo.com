@@ -2,9 +2,7 @@ title: Joe Bartelmo
 name: Joe Bartelmo
 title_separator: "|"
 email: joebartelmo@gmail.com
-description: >- # this means to ignore newlines until "baseurl:"
-    Blog and personal development website. Computing Security, Computer Vision,
-    Image processing, general software development and qualms thereof.
+description: "Blog and personal development website. Home DIY, Computing Security, DevSecOps"
 baseurl: ""
 url: "http://joebartelmo.com"
 github_username:  joebartelmo
@@ -54,10 +52,11 @@ include:
       - _computer_vision
       - _development
       - _security
+      - _diy
 author:
     name: "Joe Bartelmo"
     avatar: "/assets/images/me.jpg"
-    bio: "Blog and personal development website. Computing Security, Computer Vision, Image processing, general software development and qualms thereof."
+    bio: "Blog and personal development website. Home DIY, Computing Security, DevSecOps"
     email: "joebartelmo@gmail.com"
     uri: "http://joebartelmo.com"
     linkedin: "joebartelmo"
@@ -67,6 +66,9 @@ author:
 
 # Collections
 collections:
+  diy:
+    output: true
+    permalink: /:collection/:path/
   security:
     output: true
     permalink: /:collection/:path/
@@ -102,6 +104,16 @@ defaults:
       share: true
       related: true
   # _portfolio
+  - scope:
+      path: ""
+      type: diy
+    values:
+      layout: single
+      author_profile: true
+      read_time: true
+      comments: false
+      share: true
+      related: true
   - scope:
       path: ""
       type: security
