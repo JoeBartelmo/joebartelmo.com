@@ -35,14 +35,14 @@ Money saved from etsy/bought equivalent: ~$1-2k
 ### Before
 
 <figure class="half">
-	<a href="/assets/images/kitchen-light/before-wires.jpg"><img src="/assets/images/kitchen-light/before-wires.jpg"></a>
+	<a href="/assets/images/kitchen-light/before-wires.JPG"><img src="/assets/images/kitchen-light/before-wires.JPG"></a>
 	<a href="/assets/images/kitchen-light/slab.jpg"><img src="/assets/images/kitchen-light/slab.jpg"></a>
 	<figcaption>Left - Where it's being installed (before finished product), Right - Raw wooden slab before finishing</figcaption>
 </figure>
 
 ### After
 
-<figure class="thirds">
+<figure class="third">
 	<a href="/assets/images/kitchen-light/finished-gloss.jpg"><img src="/assets/images/kitchen-light/finished-gloss.jpg"></a>
 	<a href="/assets/images/kitchen-light/finished-on.jpg"><img src="/assets/images/kitchen-light/finished-on.jpg"></a>
 	<a href="/assets/images/kitchen-light/finished-off.jpg"><img src="/assets/images/kitchen-light/finished-off.jpg"></a>
@@ -84,9 +84,9 @@ Light fell out of ceiling because previous owner did not affix it to studs or us
 
 ### Spicy Construction Photos
 
-<figure class="thirds">
-	<a href="/assets/images/kitchen-light/fornster.jpg"><img src="/assets/images/kitchen-light/fornster.jpg"></a>
-	<a href="/assets/images/kitchen-light/testing.jpg"><img src="/assets/images/kitchen-light/testing.jpg"></a>
+<figure class="third">
+	<a href="/assets/images/kitchen-light/fornster.JPG"><img src="/assets/images/kitchen-light/fornster.JPG"></a>
+	<a href="/assets/images/kitchen-light/testing.JPG"><img src="/assets/images/kitchen-light/testing.JPG"></a>
 	<a href="/assets/images/kitchen-light/wires.jpg"><img src="/assets/images/kitchen-light/wires.jpg"></a>
 	<figcaption>Left - beautiful fornster hand drilling for junction boxes; Center - testing the lights before placement; Right - placement of wires and lights</figcaption>
 </figure>
