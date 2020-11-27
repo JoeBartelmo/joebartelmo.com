@@ -13,6 +13,8 @@ tags:
 toc: true
 toc_label: "Table of Contents"
 toc_icon: "cog"
+header:
+  og_image: /assets/images/generator-inlet/interlock.jpg
 ---
 
 A pretty easy DIY electrical install through an unfinished area. 

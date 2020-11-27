@@ -16,6 +16,8 @@ tags:
 toc: true
 toc_label: "Table of Contents"
 toc_icon: "cog"
+header:
+  og_image: /assets/images/kitchen-light/finished-gloss.jpg
 ---
 
 Our ceiling light (4ft fluorescent tube) fell off our ceiling one day while I was playing with my dog and shattered across my freshly tiled kitchen floor. We went out to buy a new one that would fill the kitchen with light, but everything was horrible or overpriced. It's amazing what people will pay for fancy lights. So we built one ourselves to match our style!

@@ -18,6 +18,8 @@ tags:
 toc: true
 toc_label: "Table of Contents"
 toc_icon: "cog"
+header:
+  og_image: /assets/images/bathroom/unnamed.jpg
 ---
 
 A full 1950s bathroom remodel, took 4 months.
