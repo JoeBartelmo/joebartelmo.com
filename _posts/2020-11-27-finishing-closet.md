@@ -15,15 +15,13 @@ tags:
 toc: true
 toc_label: "Table of Contents"
 toc_icon: "cog"
-feature_row:
-  - image_path: /assets/images/closet/before-after.jpg
-    alt: "Before and after closet remodel"
-    title: "Before and after closet remodel"
-    excerpt: "When I remodeled my bathroom, like so many contractors, I didn't even bother to finish the closet that I completely destroyed. I managed to finish this project in about 2 days time and it turned out super nice. I did this to increase sqftage of the house before an appraisal. We're refinancing, rates are too good. Too bad the appraiser didn't even look at my closet 🙄. I wanted to add a nice access panel for anyone that does future work on the shower."
+header:
+  image: /assets/images/closet/before-after.jpg
+  og_image: /assets/images/closet/before-after.jpg
   
 ---
 
-{% include feature_row %}
+When I remodeled my bathroom, like so many contractors, I didn't even bother to finish the closet that I completely destroyed. I managed to finish this project in about 2 days time and it turned out super nice. I did this to increase sqftage of the house before an appraisal. We're refinancing, rates are too good. Too bad the appraiser didn't even look at my closet 🙄. I wanted to add a nice access panel for anyone that does future work on the shower.
 
 Total price: ~162$. Money Estimated saved from professional install: 700$
 
@@ -37,6 +35,13 @@ Total price: ~162$. Money Estimated saved from professional install: 700$
 * Handle: 4$
 * Modular closet hangers - ~60$
 * Odds and ends - drywall screws, some spare 2x4s
+
+### Before and After
+
+<figure>
+  <a href="/assets/images/closet/before-after.jpg"><img src="/assets/images/closet/before-after.jpg"></a>
+	<figcaption>Total before and after transformation perspective</figcaption>
+</figure>
 
 ### Before
 
