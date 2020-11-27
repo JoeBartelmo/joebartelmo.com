@@ -16,7 +16,6 @@ toc: true
 toc_label: "Table of Contents"
 toc_icon: "cog"
 header:
-  image: /assets/images/closet/before-after.jpg
   og_image: /assets/images/closet/before-after.jpg
   
 ---
