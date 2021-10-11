@@ -142,4 +142,4 @@ Here are some close up shots of the trim after it was finished (before caulk).
 
 ## Some Notes
 
-I'll give some credit to the original owners. They did a good job hiding the flaws in the house in their photos online. Not pictured in their original photos are various holes in the wall. Oddly placed phone jack outlets. Some really messed up trim that must have been kicked over and over for years. We plan to do a whole lot more with this house. A never ending project. And I got a greenhouse to build soon, a basement to finish, a detatched in-law suite, and an attic to finish.  
+We plan to do a whole lot more with this house. A never ending project. And I got a greenhouse to build soon, a basement to finish, a detatched in-law suite, and an attic to finish.  
