@@ -132,10 +132,11 @@ I use rockwool at the recommendation of Matt Risinger. My house is just stucco o
 
 Like 3 days of work for patching all holes and spackle. Here we finally remove the carpet, and replace with cementboard after spackle is done for tile.
 
+
 <figure class="half">
-  <a href="/assets/images/pantry/spackle.jpg"><img src="/assets/images/pantry/wall-done.jpg"></a>
-  <a href="/assets/images/pantry/cementboard.jpg"><img src="/assets/images/pantry/wall-finished-bedroom.jpg"></a>
-	<figcaption>Left - Spackling the rest of the room, Right - Cementboard finished in the rest of the room.</figcaption>
+  <a href="/assets/images/pantry/wall-done.jpg"><img src="/assets/images/pantry/spackle.jpg"></a>
+  <a href="/assets/images/pantry/wall-finished-bedroom.jpg"><img src="/assets/images/pantry/cementboard.jpg"></a>
+	<figcaption>Left - Finished the bedroom wall with trim, Right - Zoom out for rest of room.</figcaption>
 </figure>
 
 ### Finish Bedroom before wrath of wife
@@ -143,9 +144,9 @@ Like 3 days of work for patching all holes and spackle. Here we finally remove t
 Did this in a day with hot mud + skim coat. Bought new trim. Painted with leftover.
 
 <figure class="half">
-  <a href="/assets/images/pantry/wall-done.jpg"><img src="/assets/images/pantry/spackle.jpg"></a>
-  <a href="/assets/images/pantry/wall-finished-bedroom.jpg"><img src="/assets/images/pantry/cementboard.jpg"></a>
-	<figcaption>Left - Finished the bedroom wall with trim, Right - Zoom out for rest of room.</figcaption>
+  <a href="/assets/images/pantry/spackle.jpg"><img src="/assets/images/pantry/wall-done.jpg"></a>
+  <a href="/assets/images/pantry/cementboard.jpg"><img src="/assets/images/pantry/wall-finished-bedroom.jpg"></a>
+	<figcaption>Left - Spackling the rest of the room, Right - Cementboard finished in the rest of the room.</figcaption>
 </figure>
 
 ### Paint
