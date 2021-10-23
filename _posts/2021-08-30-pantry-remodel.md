@@ -178,7 +178,7 @@ slightly because i didn't have any good studs to line up my cabinets as well.
 
 The worst part about all of this was jiggering a way for the small 9 inch floor cabinets to be stacked ontop of one another. They make a 8ft cabinet that is 18inches wide, but not 9. So i had to get creative. I made a small support for the cabinet to rest ontop of the other cabinet, keeping the weight on the sides of the cabinets. I then cut a large piece of white mdf painted board and put it on the side to hide the stud. 
 
-<figure class="half">
+<figure class="third">
   <a href="/assets/images/pantry/framing-top-fridge.jpg"><img src="/assets/images/pantry/framing-top-fridge.jpg"></a>
   <a href="/assets/images/pantry/cabinet-1.jpg"><img src="/assets/images/pantry/cabinet-1.jpg"></a>
   <a href="/assets/images/pantry/cabinets-2.jpg"><img src="/assets/images/pantry/cabinets-2.jpg"></a>
@@ -191,7 +191,7 @@ The countertops were a little tricky. To get one done, you buy a piece of MDF bo
 
 I had to get creative (once again) with the sliding drawers that tyler wanted in the 9 inch cabinets. The brand is called "Rev-a-shelf". To install it, I popped off the door of the cabinets, then shimmed the shelf so it was centered, I then nailed the door back to the face of the rev-a-shelf. I then placed a handle in the center of the shelfs, and filled the nail holes with chalk.
 
-![Open Rev-a-shelf](/assets/images/pantry/cabinet-open.png){:class="img-responsive"}
+![Open Rev-a-shelf](/assets/images/pantry/cabinet-open.jpg){:class="img-responsive"}
 
 ### Trim and Broom Nook
 
