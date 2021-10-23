@@ -24,8 +24,11 @@ header:
 On the coldest day of march, I decided it was the perfect time to replace the front door. If you were to look at it you'd see light shine around all the sides and you'd see the dew condense on the single pane glass ancient luan door. This project involved removing a custom door frame that was made of solid 2 inch hard wood, and working a bunch of concrete. When I removed the frame, I found the most interesting installation technique i've ever seen: they mortared 3 inch common nails in reverse into the wall, then they took the custom frame and probably whacked it into the wall. Superb. Anyway here's some photos.
 
 Door: 500$ (it took like 4 months for the door to arrive)
+
 Screen Door: 300$ (same day depot run)
-Exterior Trim and Jamb extension: 120$ - I opted for that new faux wood plastic stuff they sell at lowes. Root proof and holds up.
+
+Exterior Trim and Jamb extension: 120$ - I opted for that new faux wood plastic stuff they sell at lowes. Rot proof and holds up.
+
 Extras (free): Interior Trim, spray foam, caulk
 
 Total: 920$ ish
