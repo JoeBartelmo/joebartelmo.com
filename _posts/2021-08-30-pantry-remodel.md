@@ -231,7 +231,7 @@ This took longer than I care to admit to paint.
 
 New fridge who dis?
 
-<figure class="half">
+<figure class="third">
   <a href="/assets/images/pantry/after-all-cabinets.jpg"><img src="/assets/images/pantry/after-all-cabinets.jpg"></a>
   <a href="/assets/images/pantry/after-spices.jpg"><img src="/assets/images/pantry/after-spices.jpg"></a>
   <a href="/assets/images/pantry/after-window.jpg"><img src="/assets/images/pantry/after-window.jpg"></a>
