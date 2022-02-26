@@ -27,7 +27,7 @@ end
 
 # Performance-booster for watching directories on Windows
 gem "wdm", "~> 0.1.1", :platforms => [:mingw, :x64_mingw, :mswin]
-gem 'nokogiri', '1.10.10'
+gem 'nokogiri', '1.13.2'
 gem 'jemoji'
 gem 'jekyll-include-cache'
 gem "minimal-mistakes-jekyll"
