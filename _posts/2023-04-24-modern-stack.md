@@ -56,7 +56,7 @@ Every week Corey meets with Jim to discuss new features and to live demo current
 
 ### Requirements Level Tools
 
-![Simple Agile 2](/assets/images/s3g/agile-1.png){:class="img-responsive"}
+![Simple Agile 2](/assets/images/s3g/agile-2.png){:class="img-responsive"}
 
 [Gitlab](https://about.gitlab.com/) is exclusively used to maintain all issues, and feature tracking. It's important to not over complicate this step. The entire concept of requirements tracking boils down to a few simple core details:
 
