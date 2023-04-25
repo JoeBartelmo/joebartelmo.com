@@ -26,7 +26,7 @@ toc: true
 toc_label: "Table of Contents"
 toc_icon: "cog"
 header:
-  og_image: /assets/s3g/final.png
+  og_image: /assets/images/s3g/final.png
   
 ---
 
@@ -42,7 +42,7 @@ Good software engineers cannot underestimate the power of communication with the
 
 ### A Modern Sleek Agile Model
 
-![Simple Agile 1](/assets/s3g/agile-1.png){:class="img-responsive"}
+![Simple Agile 1](/assets/images/s3g/agile-1.png){:class="img-responsive"}
 
 Let's not overcomplicate things, it's a small team.
 
@@ -56,7 +56,7 @@ Every week Corey meets with Jim to discuss new features and to live demo current
 
 ### Requirements Level Tools
 
-![Simple Agile 2](/assets/s3g/agile-1.png){:class="img-responsive"}
+![Simple Agile 2](/assets/images/s3g/agile-1.png){:class="img-responsive"}
 
 [Gitlab](https://about.gitlab.com/) is exclusively used to maintain all issues, and feature tracking. It's important to not over complicate this step. The entire concept of requirements tracking boils down to a few simple core details:
 
@@ -80,14 +80,14 @@ When Corey first started he evaluated many different products on the market to c
 
 ## Developer Level
 
-![Simple Agile 3](/assets/s3g/agile-3.png){:class="img-responsive"}
+![Simple Agile 3](/assets/images/s3g/agile-3.png){:class="img-responsive"}
 
 Since [S3Gs](https://www.s3gsecurity.com) inception Corey has developed it with future developers in mind, which has made on-boarding simple. Let’s talk about the moving parts and what they mean to a Software Engineer:
 
 
 ### Backend
 
-![Backend](/assets/s3g/backend.png){:class="img-responsive"}
+![Backend](/assets/images/s3g/backend.png){:class="img-responsive"}
 
 _When I present architectures, I like to start at the micro / software development level and work my way out, so I will be referencing the same pieces and we will work our way towards a macro scope of our full project_
 
@@ -98,7 +98,7 @@ The Mongo integration is code-first. Providing the developers with the flexibili
 
 ### Front End
 
-![Frontend](/assets/s3g/frontend.png){:class="img-responsive"}
+![Frontend](/assets/images/s3g/frontend.png){:class="img-responsive"}
 
 
 The User Interface is a generated with React following their more modern functional programming dialect. The theming. The front end used to be decoupled from the backend, where requests are simply forward to the backend with a standard pass through reverse proxy that is integrated into the startup of the app. The point of this was an attempt to scale one of them in deployment but not the other. This was found to be relatively pointless as the load of the user interface was negligible during performance testing. The two (backend and front end) therefore are served together using SPA so only one docker container is used in production to maintain the front and backend. 
@@ -114,7 +114,7 @@ The lack of unit tests in the UI is a hot topic in the agile world. Your standar
 
 ### Primary Backing Third Party Software
 
-![Frontend](/assets/s3g/third-party.png){:class="img-responsive"}
+![Frontend](/assets/images/s3g/third-party.png){:class="img-responsive"}
 
 1. Auth
 
@@ -141,19 +141,19 @@ As we have evolved our code base overtime, all of the features of gitlab have be
 
 ### Continuous Integration
 
-![CI](/assets/s3g/ci.png){:class="img-responsive"}
+![CI](/assets/images/s3g/ci.png){:class="img-responsive"}
  
 [Gitlab pipelines](https://docs.gitlab.com/ee/ci/pipelines/) are leveraged for the build process. Each commit kicks off a multi stage process for build, testing, dockerizing,scanning, and an optional deployment. Displayed above are the first steps in the pipeline process.
 
 #### Leveraging all features of Gitlab
 
-![Devops](/assets/s3g/devops.png){:class="img-responsive"}
+![Devops](/assets/images/s3g/devops.png){:class="img-responsive"}
 
 And here are the remaining steps.
 
 ### Continuous Deployments
 
-![GCP](/assets/s3g/gcp.png){:class="img-responsive"}
+![GCP](/assets/images/s3g/gcp.png){:class="img-responsive"}
 
 #### Integration with GCP
 
@@ -183,7 +183,7 @@ As our customer base has grown we have been monitoring cpu and memory usage, how
 
 Thus our final Diagram:
 
-![final](/assets/s3g/final.png){:class="img-responsive"}
+![final](/assets/images/s3g/final.png){:class="img-responsive"}
 
 ## Conclusion
 
