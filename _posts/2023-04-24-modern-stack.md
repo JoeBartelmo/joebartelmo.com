@@ -94,14 +94,14 @@ _When I present architectures, I like to start at the micro / software developme
 C# is used as the backing language: starting in .net 6 and recently is in .net 7. The C# service is simple, effectively acting as a [CRUD](https://en.wikipedia.org/wiki/Create,_read,_update_and_delete) with fancy handling on the backend with a backing Mongo database. 
 
 
-The Mongo integration is code-first. Providing the developers with the flexibility of adjusting the relatively simple models and collections overtime to accommodate the agile interactions he has with Jim. When a model needs to be altered a simple code change occurs. Every change to the model is inspected to be backwards comparable so as not to break the stack. It will be discussed how breaking changes are handled during the deployment section. 
+The Mongo integration is code-first. Providing the developers with the flexibility of adjusting the relatively simple models and collections overtime to accommodate the agile interactions he has with Jim. When a model needs to be altered a simple code change occurs. Each change to the code driven models is evaluated to be backwards compatible so as not to break the deployment. It will be discussed how breaking changes are handled during the deployment section. 
 
 ### Front End
 
 ![Frontend](/assets/images/s3g/frontend.png){:class="img-responsive"}
 
 
-The User Interface is a generated with React following their more modern functional programming dialect. The theming. The front end used to be decoupled from the backend, where requests are simply forward to the backend with a standard pass through reverse proxy that is integrated into the startup of the app. The point of this was an attempt to scale one of them in deployment but not the other. This was found to be relatively pointless as the load of the user interface was negligible during performance testing. The two (backend and front end) therefore are served together using SPA so only one docker container is used in production to maintain the front and backend. 
+The User Interface is a generated with React following their more modern functional programming dialect. The front end used to be decoupled from the backend, where requests are simply forward to the backend with a standard pass through reverse proxy that is integrated into the startup of the app. The point of this was an attempt to scale one of them in deployment but not the other. This was found to be relatively pointless as the load of the user interface was negligible during performance testing. The two (backend and front end) therefore are served together using SPA so only one docker container is used in production to maintain the front and backend. 
 
 ### Testing
 
@@ -128,7 +128,7 @@ Many video servicing softwares were evaluated during initial development. Ultima
 
 3. Theming
 
-The theme is a third party supplied item. Branding and logo were all developers in-house, and the color palette is chosen based on the branding, everything else is built off the initial theme. I would recommend this for any small company. UX development can be easy, but often incredibly tedious unless it’s all you do. Simply choose a branding and stick with it. The important part is to make sure all subcomponents you import inherit from your theme, keep the experience consistent, and don’t retheme every page. 
+The theme is a third party supplied item built on-top of [material ui](https://mui.com/). Branding and logo were all developers in-house, and the color palette is chosen based on the branding, everything else is built off the initial theme. Designing based on this prebuilt theme gave a solid foundation where theming and styling was never a concern during development. I would recommend this for any small company. UX development can be easy, but often incredibly tedious unless you live and breath the stuff. Simply choose a branding and stick with it. The important part is to make sure all subcomponents you import inherit from your theme, keep the experience consistent, and don’t retheme every page. 
 
 
 These are the big ones (in my opinion) worth nothing. There are many smaller components that are used but have a smaller impact on the overall application. 
