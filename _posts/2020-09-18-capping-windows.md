@@ -43,7 +43,7 @@ Sorry for potato quality on before photos, i took some of them half way through.
 
 ### Why I did it
 
-When we moved in we had 8/14 windows replaced. Wife didn't trust me to do the window install because I was still a DIY noob. I wanted the windows to match.
+When we moved in we had 8/14 windows replaced. I wanted the windows to match.
 
 ### How I did it
 

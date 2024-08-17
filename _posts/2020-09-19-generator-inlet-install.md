@@ -51,7 +51,7 @@ Conduit:
 
 ### Why I did it
 
-We lost power like 5 times within the first year living hear, more times than anywhere i've ever lived. The power lines run through a mass of trees so usually a tree falls on the line and disconnects it from the transformer. The longest we were without power was 3.5 days. Gotta love living in the country. After the 3rd time my dad bought a new generator and gave me his hand-me-down. I have a fair bit of knowledge of electrical work, so what I did was splice the cable and feed it into the panel with a breaker i had laying around. Worked, but i would have to run the line through a window and would let bugs in. This would take about 30 minutes to hook it up, and if it was wet outside it was a struggle. Needless to say this is not "to code" either and it freaked out my wife a bit.
+We lost power like 5 times within the first year living hear, more times than anywhere i've ever lived. The power lines run through a mass of trees so usually a tree falls on the line and disconnects it from the transformer. The longest we were without power was 3.5 days. Gotta love living in the country. After the 3rd time my dad bought a new generator and gave me his hand-me-down. I have a fair bit of knowledge of electrical work, so what I did was splice the cable and feed it into the panel with a breaker i had laying around. Worked, but i would have to run the line through a window and would let bugs in. This would take about 30 minutes to hook it up, and if it was wet outside it was a struggle. Needless to say this is not "to code" either.
 
 ### Some notes before how-to
 
