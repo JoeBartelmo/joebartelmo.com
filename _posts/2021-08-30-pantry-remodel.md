@@ -44,7 +44,7 @@ The whole project took roughly 4 months, mainly wait time for cabinets to arrive
 ### Floor plan
 
 
-This is the floor plan before. Wife forbade me from moving the bedroom closet, so we will be left with the closet space (non-load bearing) and the rest of the room. 
+This is the floor plan before. 
 
 ![Plan](/assets/images/pantry/before-sketch.png){:class="img-responsive"}
 
@@ -71,7 +71,7 @@ Some more from all angles:
 
 ## The Plan
 
-So we're not left with much room in here. First step is to consult with the wife. We went through about 5 different iterations for how we wanted the floor plan to work out. Our primary goal was to use this as storage for our fridge and for the rest of our food. My secondary goal was to include a space to store our brooms and cleaning supplies. Her secondary goal was to give us a neat place to store appliances.
+So we're not left with much room in here. We went through about 5 different iterations for how we wanted the floor plan to work out. Our primary goal was to use this as storage for our fridge and for the rest of our food. My secondary goal was to include a space to store our brooms and cleaning supplies. Her secondary goal was to give us a neat place to store appliances.
 
 The next step was to shop around and figure out what we could do with a reasonable amount of money. The most expensive part in this project is the cabinets. I will get into that in another section. But we really needed to work on cabinet configuration. Eventually this was the decided iteration.
 

@@ -25,7 +25,7 @@ header:
   
 ---
 
-As 2020 comes to a close, we decided to bring together a collection of photos. This is some personal progress tracking for everything we've remodeled. My wife asked me to throw together a bunch of photos of before/after so her friends can see what we've done. The before photos are when we moved in, and the after is what they look like now from approximately the same perspective. Parts that are not remodeled yet are not included in this post. We plan to do much more :)
+As 2020 comes to a close, we decided to bring together a collection of photos. This is some personal progress tracking for everything we've remodeled. The before photos are when we moved in, and the after is what they look like now from approximately the same perspective. Parts that are not remodeled yet are not included in this post. We plan to do much more :)
 
 With the remodels pictured here, our house went up by 100k in value from what we originally bought it for (got it appraised for a refinance).
 
@@ -53,7 +53,7 @@ No more extra useless cabinet, fridge moved into the "pantry" which we have yet 
 
 ## Kitchen Counter
 
-I really wanted (and still want) to redo these cabinets. The wife wanted them stay 🙄
+I really wanted (and still want) to redo these cabinets. 
 
 <figure class="third">
   <a href="/assets/images/2020-progress/before/kitchen-exact.jpg"><img src="/assets/images/2020-progress/before/kitchen-exact.jpg"></a>

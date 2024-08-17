@@ -87,5 +87,3 @@ that went into tiling upside down.
 * The bathroom has a heated floor
 * This project added 10sqft to the bathroom, we cut out a poorly designed closet
 * Live edge wood vanity took 3 weeks to finish by hand
-* You can thank my wife if you like the design of this bathroom - she also tiled 80% of the floor.
-* You can send me a "F" to pay some respects for accomplishing her designs, 1 brick at a time.
