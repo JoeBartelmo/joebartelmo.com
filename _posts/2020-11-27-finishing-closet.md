@@ -1,5 +1,5 @@
 ---
-title: "DIY Finishing an Unfinished Closet w/Access Panel like a Pro"
+title: "DIY Finishing an Unfinished Closet w/Access Panel"
 categories:
   - diy
 tags:
@@ -20,7 +20,7 @@ header:
   
 ---
 
-When I remodeled my bathroom, like so many contractors, I didn't even bother to finish the closet that I completely destroyed. I managed to finish this project in about 2 days time and it turned out super nice. I did this to increase sqftage of the house before an appraisal. We're refinancing, rates are too good. Too bad the appraiser didn't even look at my closet 🙄. I wanted to add a nice access panel for anyone that does future work on the shower.
+When I remodeled my bathroom, like so many contractors, I didn't even bother to finish the closet that I completely destroyed. I managed to finish this project in about 2 days time and it turned out super nice. I did this to increase sqftage of the house before an appraisal. I'm refinancing, rates are too good. Too bad the appraiser didn't even look at my closet 🙄. I wanted to add a nice access panel for anyone that does future work on the shower.
 
 Total price: ~162$. Money Estimated saved from professional install: 700$
 

@@ -59,8 +59,8 @@ Hand made floating vanity with a bowl sink. I hope you think its beautiful, I th
 
 ## Tub and Shower
 
-Vertically tiled 2-tone shower. Made a mistake and put a drop-in tub in instead of an alcove, we get some water buildup sometimes,
-but it's not a really big deal, we wipe it down after showering. The tub is deep soaking, and extra long so you can sit down all the
+Vertically tiled 2-tone shower. Made a mistake and put a drop-in tub in instead of an alcove, it gets some water buildup sometimes,
+but it's not a really big deal, I wipe it down after showering. The tub is deep soaking, and extra long so you can sit down all the
 back of the tub acts like a little recliner of sorts. 
 
 <figure class="half">

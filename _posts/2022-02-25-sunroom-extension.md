@@ -31,13 +31,13 @@ header:
   
 ---
 
-When we bought this house there was an unused concrete deck that was gingerly sitting outside a door. This deck's base was 4 inches of solid concrete, and it was supported by 8 inch concrete block walls which housed a garage. We looked at it when we first toured the house and said "that's just unused space, we can extend it if the house is a little small". Sure enough the living space was a tad too small.
+When I bought this house there was an unused concrete deck that was gingerly sitting outside a door. This deck's base was 4 inches of solid concrete, and it was supported by 8 inch concrete block walls which housed a garage. I looked at it when I first toured the house and said "that's just unused space, I can extend it if the house is a little small". Sure enough the living space was a tad too small.
 
-Overtime this idea grew and she wanted it to have a wood stove too. 🔨
+Overtime this idea grew and wanted it to have a wood stove too. 🔨
 
 As this was a larger project, I got some help. I had a structural engineer come out to tell me if the garage could bear the weight of an extension on top of it, he confirmed it could carry probably up to about 2 stories. There were indeed 18 inch footers in the ground; light footers, but they were deep enough and no structural error seemed to be present.
 
-After that we bided some time to save some money. We hired contractors at Prince Builders LLC to initiate our house building endeavor. The deal we worked out was they would be responsible for getting a subfloor, walls, windows, the roof, exterior wall leading into the sunroom knocked out, and exterior of the extension waterproofed. I would be doing the finishing: drywall, trim, electric, insulation, siding, wood stove, and hearth.
+After that I bid some time to save some money. I hired contractors at Prince Builders LLC to initiate our house building endeavor. The deal we worked out was they would be responsible for getting a subfloor, walls, windows, the roof, exterior wall leading into the sunroom knocked out, and exterior of the extension waterproofed. I would be doing the finishing: drywall, trim, electric, insulation, siding, wood stove, and hearth.
 
 The contractors and I worked at the same time on a few things; I took a week off while they were working to attempt and get a lot of the nitty gritty stuff done.
 

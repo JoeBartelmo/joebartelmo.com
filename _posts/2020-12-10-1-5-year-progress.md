@@ -25,9 +25,7 @@ header:
   
 ---
 
-As 2020 comes to a close, we decided to bring together a collection of photos. This is some personal progress tracking for everything we've remodeled. The before photos are when we moved in, and the after is what they look like now from approximately the same perspective. Parts that are not remodeled yet are not included in this post. We plan to do much more :)
-
-With the remodels pictured here, our house went up by 100k in value from what we originally bought it for (got it appraised for a refinance).
+As 2020 comes to a close, I decided to bring together a collection of photos. This is some personal progress tracking for everything I've remodeled. The before photos are when I moved in, and the after is what they look like now from approximately the same perspective. Parts that are not remodeled yet are not included in this post. I plan to do much more :)
 
 Yes, I plan to paint the remaining wood trim white, and replacing the rest of the luan doors.
 
@@ -126,11 +124,7 @@ No before shots, they were hiding some holes and bolts in the walls. Also hiding
 </figure>
 
 
-## New Trim Perspective
-
-I just wanted to highlight the incredible trim that I found at Lowes. I'm a huge fan of low-width trim that does nothing more than add to the aesthetic of the house. It's no secret that contractors will use larger trim to hide flaws in their work. If you have very large baseboard, its definitely hiding a garbage spackle job. Originally my trim in this house was 8 inches, and it was hiding many holes. Therefore, the downside of this low-width trim is just more prep work. The door trim is ~1.5" in width.
-
-Here are some close up shots of the trim after it was finished (before caulk).
+## New Trim 
 
 <figure class="third">
   <a href="/assets/images/2020-progress/after/trim-perspective.jpg"><img src="/assets/images/2020-progress/after/trim-perspective.jpg"></a>
@@ -142,4 +136,4 @@ Here are some close up shots of the trim after it was finished (before caulk).
 
 ## Some Notes
 
-We plan to do a whole lot more with this house. A never ending project. And I got a greenhouse to build soon, a basement to finish, a detatched in-law suite, and an attic to finish.  
+I plan to do a whole lot more with this house. A never ending project. And I got a greenhouse to build soon, a basement to finish, a detatched in-law suite, and an attic to finish.  

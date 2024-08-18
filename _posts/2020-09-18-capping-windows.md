@@ -17,7 +17,7 @@ header:
   og_image: /assets/images/capping/new2.jpg
 ---
 
-Been entirely inactive for a long time on every social media platform. Just wanted to start posting about stuff i've been doing since we bought our house. Here we'll talk about some window capping.
+Been entirely inactive for a long time on every social media platform. Just wanted to start posting about stuff i've been doing since I bought the house. Here we'll talk about some window capping.
 
 Total Price: ~80$
 
@@ -40,10 +40,6 @@ Sorry for potato quality on before photos, i took some of them half way through.
 	<a href="/assets/images/capping/new3.jpg"><img src="/assets/images/capping/new3.jpg"></a>
 	<figcaption>After Capping Windows</figcaption>
 </figure>
-
-### Why I did it
-
-When we moved in we had 8/14 windows replaced. I wanted the windows to match.
 
 ### How I did it
 

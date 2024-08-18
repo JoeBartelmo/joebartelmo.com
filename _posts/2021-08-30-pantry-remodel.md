@@ -31,7 +31,7 @@ header:
   
 ---
 
-Since we've owned the house there has been a small room to the right of our mudroom enterence taking up the corner of the house. The previous owners used this as an office space. It is about 45sqft of space, about 6 feet wide. We ended up using it as space to store food, but there was really no good mechanism of storage in there. We ended up deciding to transform it into a complete walk in pantry with our fridge included. This keeps the fridge out of our (smaller) kitchen and makes more dining space.
+Since I've owned the house there has been a small room to the right of our mudroom enterence taking up the corner of the house. The previous owners used this as an office space. It is about 45sqft of space, about 6 feet wide. I ended up using it as space to store food, but there was really no good mechanism of storage in there. I decided to transform it into a complete walk in pantry with our fridge included. This keeps the fridge out of our (smaller) kitchen and makes more dining space.
 
 The whole project took roughly 4 months, mainly wait time for cabinets to arrive, wait time for the tile, wait time for the countertops. Overall it was about 2 weeks worth of actual DIY work, where 1 full week of that work was demo and cleanup.
 
@@ -71,9 +71,9 @@ Some more from all angles:
 
 ## The Plan
 
-So we're not left with much room in here. We went through about 5 different iterations for how we wanted the floor plan to work out. Our primary goal was to use this as storage for our fridge and for the rest of our food. My secondary goal was to include a space to store our brooms and cleaning supplies. Her secondary goal was to give us a neat place to store appliances.
+So we're not left with much room in here. I went through about 5 different iterations for how I wanted the floor plan to work out. Our primary goal was to use this as storage for our fridge and for the rest of our food. My secondary goal was to include a space to store our brooms and cleaning supplies. Her secondary goal was to give us a neat place to store appliances.
 
-The next step was to shop around and figure out what we could do with a reasonable amount of money. The most expensive part in this project is the cabinets. I will get into that in another section. But we really needed to work on cabinet configuration. Eventually this was the decided iteration.
+The next step was to shop around and figure out what I could do with a reasonable amount of money. The most expensive part in this project is the cabinets. I will get into that in another section. But I really needed to work on cabinet configuration. Eventually this was the decided iteration.
 
 ![Plan](/assets/images/pantry/after-sketch.png){:class="img-responsive"}
 
@@ -139,7 +139,7 @@ Like 3 days of work for patching all holes and spackle. Here we finally remove t
 	<figcaption>Left - Finished the bedroom wall with trim, Right - Zoom out for rest of room.</figcaption>
 </figure>
 
-### Finish Bedroom before wrath of wife
+### Finish Bedroom 
 
 Did this in a day with hot mud + skim coat. Bought new trim. Painted with leftover.
 
