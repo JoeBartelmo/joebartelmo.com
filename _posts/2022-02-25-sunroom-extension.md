@@ -3,7 +3,7 @@ title: "Sunroom Extension"
 date: 2022-02-25 12:00:00 -0500
 categories: [diy]
 tags: ["diy", "interior", "house", "1950s", "carpentry", "remodel", "windows", "rustic", "modern", "sunroom", "stove", "wood-stove", "alternative-heat"]
-image: /assets/images/sunroom/before-after-outside.png
+image: /assets/images/sunroom/before-after-outside.jpg
 ---
 
 When we bought this house there was an unused concrete deck that was gingerly sitting outside a door. This deck's base was 4 inches of solid concrete, and it was supported by 8 inch concrete block walls which housed a garage. We looked at it when we first toured the house and said "that's just unused space, we can extend it if the house is a little small". Sure enough the living space was a tad too small.
@@ -25,10 +25,10 @@ This project was started in October, and ended in January
 ## TLDR Before/After Shots
 
 ### Inside
-![Inside Remodel](/assets/images/sunroom/before-after-inside.png){:class="img-responsive"}
+![Inside Remodel](/assets/images/sunroom/before-after-inside.jpg){:class="img-responsive"}
 
 ### Outside
-![Outside Remodel](/assets/images/sunroom/before-after-outside.png){:class="img-responsive"}
+![Outside Remodel](/assets/images/sunroom/before-after-outside.jpg){:class="img-responsive"}
 
 
 ## Google Drive of Photos
@@ -61,18 +61,18 @@ There are photos in the drive about when I cut off the tip of my finger. Was jus
 
 
 <figure class="third">
-  <a href="/assets/images/sunroom/stove.png"><img src="/assets/images/sunroom/stove.png"></a>
-  <a href="/assets/images/sunroom/stove-zoom-out.png"><img src="/assets/images/sunroom/stove-zoom-out.png"></a>
-  <a href="/assets/images/sunroom/view-from-living.png"><img src="/assets/images/sunroom/view-from-living.png"></a>
+  <a href="/assets/images/sunroom/stove.jpg"><img src="/assets/images/sunroom/stove.jpg"></a>
+  <a href="/assets/images/sunroom/stove-zoom-out.jpg"><img src="/assets/images/sunroom/stove-zoom-out.jpg"></a>
+  <a href="/assets/images/sunroom/view-from-living.jpg"><img src="/assets/images/sunroom/view-from-living.jpg"></a>
 	<figcaption>Left - Wood Stove with hearth, Center - stove in corner, Right - View from living room</figcaption>
 </figure>
 
 
 <figure class="third">
-  <a href="/assets/images/sunroom/big-windows.png"><img src="/assets/images/sunroom/big-windows.png"></a>
-  <a href="/assets/images/sunroom/living-from-sun.png"><img src="/assets/images/sunroom/living-from-sun.png"></a>
-  <a href="/assets/images/sunroom/outside-door.png"><img src="/assets/images/sunroom/outside-door.png"></a>
+  <a href="/assets/images/sunroom/big-windows.jpg"><img src="/assets/images/sunroom/big-windows.jpg"></a>
+  <a href="/assets/images/sunroom/living-from-sun.jpg"><img src="/assets/images/sunroom/living-from-sun.jpg"></a>
+  <a href="/assets/images/sunroom/outside-door.jpg"><img src="/assets/images/sunroom/outside-door.jpg"></a>
 	<figcaption>Left - Window view of my back yard, Center - living room view from sun room, Right - the egress to the deck</figcaption>
 </figure>
 
-![Panogram Remodel](/assets/images/sunroom/panogram.png){:class="img-responsive"}
+![Panogram Remodel](/assets/images/sunroom/panogram.jpg){:class="img-responsive"}

@@ -2,7 +2,7 @@ title: Joe Bartelmo
 tagline: "Blog and personal development website"
 description: "Blog and personal development website. Home DIY, Computing Security, DevSecOps"
 avatar: "/assets/images/me2.jpg"
-paginate: 5
+paginate: 50
 paginate_path: "/page:num/"
 baseurl: ""
 url: "https://joebartelmo.com"
