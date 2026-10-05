@@ -21,16 +21,15 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v4
 
-      - name: Setup Ruby
-        uses: ruby/setup-ruby@v1
-        with:
-          ruby-version: '3.3'
-          bundler-cache: true
-
-      - name: Build site with Jekyll
+      - name: Build site with Docker (matches local Jekyll container)
         env:
           JEKYLL_ENV: production
-        run: bundle exec jekyll build --trace
+        run: |
+          docker run --rm \
+            -v "${{ github.workspace }}:/srv/jekyll" \
+            -w /srv/jekyll \
+            ruby:3.3.6-bullseye \
+            bash -lc "bundle install && bundle exec jekyll build --trace"
 
       - name: Upload Pages artifact
         uses: actions/upload-pages-artifact@v3
