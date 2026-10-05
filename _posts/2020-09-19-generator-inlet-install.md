@@ -1,20 +1,9 @@
 ---
 title: "DIY Generator Inlet"
-categories:
-  - diy
-tags:
-  - diy
-  - exterior
-  - electrical
-  - house
-  - windows
-  - 1950s
-  - stucco
-toc: true
-toc_label: "Table of Contents"
-toc_icon: "cog"
-header:
-  og_image: /assets/images/generator-inlet/interlock.jpg
+date: 2020-09-19 12:00:00 -0400
+categories: [diy]
+tags: ["diy", "exterior", "electrical", "house", "windows", "1950s", "stucco"]
+image: /assets/images/generator-inlet/interlock.jpg
 ---
 
 A pretty easy DIY electrical install through an unfinished area. 

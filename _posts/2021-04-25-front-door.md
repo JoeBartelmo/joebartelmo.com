@@ -1,23 +1,9 @@
 ---
 title: "Exterior Front Door Installation"
-categories:
-  - diy
-tags:
-  - diy
-  - interior
-  - house
-  - 1950s
-  - carpentry
-  - remodel
-  - exterior
-  - door
-  - trim
-toc: true
-toc_label: "Table of Contents"
-toc_icon: "cog"
-header:
-  og_image: /assets/images/door/after.jpg
-  
+date: 2021-04-25 12:00:00 -0400
+categories: [diy]
+tags: ["diy", "interior", "house", "1950s", "carpentry", "remodel", "exterior", "door", "trim"]
+image: /assets/images/door/after.jpg
 ---
 
 

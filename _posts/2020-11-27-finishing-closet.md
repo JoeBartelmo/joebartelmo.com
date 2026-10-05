@@ -1,23 +1,9 @@
 ---
 title: "DIY Finishing an Unfinished Closet w/Access Panel like a Pro"
-categories:
-  - diy
-tags:
-  - diy
-  - interior
-  - house
-  - 1950s
-  - carpentry
-  - drywall
-  - door
-  - access panel
-  - custom
-toc: true
-toc_label: "Table of Contents"
-toc_icon: "cog"
-header:
-  og_image: /assets/images/closet/before-after.jpg
-  
+date: 2020-11-27 12:00:00 -0500
+categories: [diy]
+tags: ["diy", "interior", "house", "1950s", "carpentry", "drywall", "door", "access-panel", "custom"]
+image: /assets/images/closet/before-after.jpg
 ---
 
 When I remodeled my bathroom, like so many contractors, I didn't even bother to finish the closet that I completely destroyed. I managed to finish this project in about 2 days time and it turned out super nice. I did this to increase sqftage of the house before an appraisal. We're refinancing, rates are too good. Too bad the appraiser didn't even look at my closet 🙄. I wanted to add a nice access panel for anyone that does future work on the shower.

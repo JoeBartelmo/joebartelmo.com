@@ -1,34 +1,9 @@
 ---
 title: "DIY Pantry Remodel"
-categories:
-  - diy
-tags:
-  - diy
-  - interior
-  - house
-  - 1950s
-  - carpentry
-  - remodel
-  - windows
-  - 1950s
-  - remodel
-  - rustic
-  - modern
-  - pantry
-  - cabinets
-  - fridge
-  - countertop
-  - tile
-  - grout
-  - closet
-  - office
-  - trim
-toc: true
-toc_label: "Table of Contents"
-toc_icon: "cog"
-header:
-  og_image: /assets/images/pantry/before-after.jpg
-  
+date: 2021-08-30 12:00:00 -0400
+categories: [diy]
+tags: ["diy", "interior", "house", "1950s", "carpentry", "remodel", "windows", "rustic", "modern", "pantry", "cabinets", "fridge", "countertop"]
+image: /assets/images/pantry/before-after.jpg
 ---
 
 Since we've owned the house there has been a small room to the right of our mudroom enterence taking up the corner of the house. The previous owners used this as an office space. It is about 45sqft of space, about 6 feet wide. We ended up using it as space to store food, but there was really no good mechanism of storage in there. We ended up deciding to transform it into a complete walk in pantry with our fridge included. This keeps the fridge out of our (smaller) kitchen and makes more dining space.

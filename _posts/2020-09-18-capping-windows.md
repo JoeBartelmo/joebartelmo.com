@@ -1,20 +1,9 @@
 ---
 title: "DIY Window Capping"
-categories:
-  - diy
-tags:
-  - diy
-  - exterior
-  - house
-  - windows
-  - 1950s
-  - stucco
-  - capping
-toc: true
-toc_label: "Table of Contents"
-toc_icon: "cog"
-header:
-  og_image: /assets/images/capping/new2.jpg
+date: 2020-09-18 12:00:00 -0400
+categories: [diy]
+tags: ["diy", "exterior", "house", "windows", "1950s", "stucco", "capping"]
+image: /assets/images/capping/new2.jpg
 ---
 
 Been entirely inactive for a long time on every social media platform. Just wanted to start posting about stuff i've been doing since we bought our house. Here we'll talk about some window capping.

@@ -1,33 +1,9 @@
 ---
 title: "S3GSecurity: A Simple Modern Successful Tech Stack"
-categories:
-  - development
-  - computer-security
-tags:
-  - software
-  - architecture
-  - full-stack
-  - modern
-  - mongo
-  - mongodb
-  - s3gsecurity
-  - alterac
-  - c#
-  - csharp
-  - javascript
-  - react
-  - react.js
-  - .net
-  - dotnet
-  - gcp
-  - google cloud
-  - devops
-toc: true
-toc_label: "Table of Contents"
-toc_icon: "cog"
-header:
-  og_image: /assets/images/s3g/final.png
-  
+date: 2023-04-24 12:00:00 -0400
+categories: [development, computer-security]
+tags: ["software", "architecture", "full-stack", "modern", "mongo", "mongodb", "s3gsecurity", "alterac", "c#", "csharp", "javascript", "react", "react.js", ".net"]
+image: /assets/images/s3g/agile-1.png
 ---
 
 A while ago I was asked by a friend ([Corey Pritchard](https://www.linkedin.com/in/corey-pritchard)) at work to evaluate his application during beta testing to see if there was any problems. Noting a few small technical issues I ran into, it was technically sound. We talked about it for a while after that, and fast forward a year later and we have been working on this same project together ever since. 

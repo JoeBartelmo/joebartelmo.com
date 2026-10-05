@@ -1,0 +1,32 @@
+---
+layout: page
+---
+
+<header>
+  <h2 class="page-title">Category: {{ page.title | default: page.name }}</h2>
+  {% if page.description %}
+    <p class="page-description">{{ page.description }}</p>
+  {% endif %}
+</header>
+
+<main>
+  <ul class="post-list">
+    {% assign category_name = page.title | default: page.name %}
+    {% assign category_key = category_name | downcase | replace: '_', '-' %}
+    {% for post in site.posts | sort: 'date' | reverse %}
+      {% assign matched = false %}
+      {% for post_category in post.categories %}
+        {% assign post_category_key = post_category | downcase | replace: '_', '-' %}
+        {% if post_category_key == category_key %}
+          {% assign matched = true %}
+        {% endif %}
+      {% endfor %}
+      {% if matched %}
+        <li>
+          <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
+          <span class="post-date"> — {{ post.date | date: "%Y-%m-%d" }}</span>
+        </li>
+      {% endif %}
+    {% endfor %}
+  </ul>
+</main>

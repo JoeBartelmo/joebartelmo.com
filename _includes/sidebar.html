@@ -1,0 +1,94 @@
+<!-- The Side Bar -->
+
+<aside aria-label="Sidebar" id="sidebar" class="d-flex flex-column align-items-start">
+  <header class="profile-wrapper">
+    <a href="{{ '/' | relative_url }}" id="avatar" class="rounded-circle">
+      {% if site.avatar != empty and site.avatar %}
+        <img src="{{ site.avatar | relative_url }}" width="112" height="112" alt="avatar" onerror="this.style.display='none'">
+      {% endif %}
+    </a>
+
+    <a class="site-title d-block" href="{{ '/' | relative_url }}">{{ site.title }}</a>
+    <p class="site-subtitle fst-italic mb-0">{{ site.tagline }}</p>
+  </header>
+  <!-- .profile-wrapper -->
+
+  <nav class="flex-column flex-grow-1 w-100 ps-0">
+    <ul class="nav">
+      <li class="nav-item{% if page.layout == 'home' %}{{ ' active' }}{% endif %}">
+        <a href="{{ '/' | relative_url }}" class="nav-link">
+          <i class="fa-fw fa-solid fa-house"></i>
+          <span>Home</span>
+        </a>
+      </li>
+    </ul>
+  </nav>
+
+  {% assign category_list = site.categories | sort %}
+  {% if category_list.size > 0 %}
+    <div class="sidebar-section mb-3 w-100 ps-0">
+      <h3 class="sidebar-heading mb-2">Categories</h3>
+      <ul class="nav flex-column">
+        {% for category in category_list %}
+          {% assign cat_name = category[0] %}
+          {% assign cat_slug = cat_name | slugify %}
+          {% assign cat_label = cat_name | replace: '-', ' ' | replace: '_', ' ' %}
+          {% assign cat_icon = 'fa-solid fa-folder' %}
+
+          {% case cat_name %}
+            {% when 'computer-vision' or 'computer_vision' %}
+              {% assign cat_label = 'Computer Vision' %}
+              {% assign cat_icon = 'fa-solid fa-camera' %}
+            {% when 'computer-security' or 'computer_security' %}
+              {% assign cat_label = 'Computer Security' %}
+              {% assign cat_icon = 'fa-solid fa-shield-halved' %}
+            {% when 'development' %}
+              {% assign cat_label = 'Development' %}
+              {% assign cat_icon = 'fa-solid fa-code' %}
+            {% when 'diy' %}
+              {% assign cat_label = 'DIY' %}
+              {% assign cat_icon = 'fa-solid fa-hammer' %}
+            {% else %}
+              {% assign cat_label = cat_label | capitalize %}
+          {% endcase %}
+
+          <li class="nav-item">
+            <a href="{{ '/' | append: cat_slug | append: '/' | relative_url }}" class="nav-link">
+              <i class="fa-fw {{ cat_icon }}"></i>
+              <span>{{ cat_label }}</span>
+            </a>
+          </li>
+        {% endfor %}
+      </ul>
+    </div>
+  {% endif %}
+
+  <div class="sidebar-bottom d-flex flex-wrap align-items-center w-100">
+    {% unless site.theme_mode == 'light' or site.theme_mode == 'dark' %}
+      {% capture icon_light %}<i class="fa-regular fa-sun" data-theme-mode="light"></i>{% endcapture %}
+      {% capture icon_dark %}<i class="fa-regular fa-moon" data-theme-mode="dark"></i>{% endcapture %}
+
+      <div class="btn-group dropup">
+        <button type="button" class="btn btn-link nav-link" aria-label="Switch Mode" id="mode-toggle" data-bs-toggle="dropdown">
+          {{ icon_light }}
+          {{ icon_dark }}
+        </button>
+        <ul class="dropdown-menu rounded-3 mb-1 p-1">
+          <li>
+            <button class="dropdown-item d-flex align-items-center" type="button" data-theme-mode="light">
+              {{ icon_light }}
+              Light
+            </button>
+          </li>
+          <li>
+            <button class="dropdown-item d-flex align-items-center" type="button" data-theme-mode="dark">
+              {{ icon_dark }}
+              Dark
+            </button>
+          </li>
+        </ul>
+      </div>
+    {% endunless %}
+  </div>
+</aside>
+<!-- #sidebar -->

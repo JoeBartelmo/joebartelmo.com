@@ -1,17 +1,9 @@
 ---
 title: "Hacking Video Games: A Software Engineering Approach"
-categories:
-  - security
-tags:
-  - python
-  - security
-  - hacking
-  - skyrim
-  - modding
-  - video games
-toc: true
-toc_label: "Table of Contents"
-toc_icon: "cog"
+date: 2018-04-22 12:00:00 -0400
+categories: [computer-security]
+tags: [python, security, hacking, skyrim, modding, video-games]
+image: /assets/images/file1.png
 ---
 
 We’re going to be doing a brief discussion on an approach to attacking client-side video games. I am going to make several assumptions about our reader: you’re experienced with binary (and hexadecimal), you understand basic computer science skills (can program and understand hash-tables and computational organization), and you hate losing games.

@@ -1,36 +1,23 @@
 ---
-layout: archive
+layout: page
 title: "Sitemap"
 permalink: /sitemap/
-author_profile: false
 ---
-
 
 A list of all the posts and pages found on the site. For you robots out there is an [XML version](/sitemap.xml) available for digesting as well.
 
-<h2>Pages</h2>
-{% for post in site.pages %}
-  {% include archive-single.html %}
-{% endfor %}
-
 <h2>Posts</h2>
-{% for post in site.posts %}
-  {% include archive-single.html %}
-{% endfor %}
+<ul>
+  {% for post in site.posts %}
+    <li><a href="{{ post.url | relative_url }}">{{ post.title }}</a></li>
+  {% endfor %}
+</ul>
 
-{% capture written_label %}'None'{% endcapture %}
-
-{% for collection in site.collections %}
-{% unless collection.output == false or collection.label == "posts" %}
-  {% capture label %}{{ collection.label }}{% endcapture %}
-  {% if label != written_label %}
-  <h2>{{ label }}</h2>
-  {% capture written_label %}{{ label }}{% endcapture %}
-  {% endif %}
-{% endunless %}
-{% for post in collection.docs %}
-  {% unless collection.output == false or collection.label == "posts" %}
-  {% include archive-single.html %}
-  {% endunless %}
-{% endfor %}
-{% endfor %}
+<h2>Pages</h2>
+<ul>
+  {% for page in site.pages %}
+    {% if page.url != '/' and page.url != '/404.html' and page.url != '/sitemap/' %}
+      <li><a href="{{ page.url | relative_url }}">{{ page.title | default: page.name }}</a></li>
+    {% endif %}
+  {% endfor %}
+</ul>

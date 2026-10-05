@@ -1,28 +1,9 @@
 ---
 title: "One and a half years of DIY Remodeling Before/After"
-categories:
-  - diy
-tags:
-  - diy
-  - interior
-  - house
-  - 1950s
-  - carpentry
-  - remodel
-  - kitchen
-  - bathroom
-  - living room
-  - living
-  - floor
-  - tile
-  - lvt
-  - trim
-toc: true
-toc_label: "Table of Contents"
-toc_icon: "cog"
-header:
-  og_image: /assets/images/2020-progress/after/living-kitchen.jpg
-  
+date: 2020-12-10 12:00:00 -0500
+categories: [diy]
+tags: ["diy", "interior", "house", "1950s", "carpentry", "remodel", "kitchen", "bathroom", "living-room", "living", "floor", "tile", "lvt", "trim"]
+image: /assets/images/2020-progress/after/living-kitchen.jpg
 ---
 
 As 2020 comes to a close, we decided to bring together a collection of photos. This is some personal progress tracking for everything we've remodeled. My wife asked me to throw together a bunch of photos of before/after so her friends can see what we've done. The before photos are when we moved in, and the after is what they look like now from approximately the same perspective. Parts that are not remodeled yet are not included in this post. We plan to do much more :)

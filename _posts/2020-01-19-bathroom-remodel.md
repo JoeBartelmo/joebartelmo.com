@@ -1,25 +1,9 @@
 ---
 title: "DIY Bathroom Remodel"
-categories:
-  - diy
-tags:
-  - diy
-  - interior
-  - electrical
-  - plumbing
-  - bathroom
-  - house
-  - windows
-  - 1950s
-  - remodel
-  - rustic
-  - modern
-  - floating vanity
-toc: true
-toc_label: "Table of Contents"
-toc_icon: "cog"
-header:
-  og_image: /assets/images/bathroom/unnamed.jpg
+date: 2020-01-19 12:00:00 -0500
+categories: [diy]
+tags: ["diy", "interior", "electrical", "plumbing", "bathroom", "house", "windows", "1950s", "remodel", "rustic", "modern", "floating-vanity"]
+image: /assets/images/bathroom/after-sink.jpg
 ---
 
 A full 1950s bathroom remodel, took 4 months.

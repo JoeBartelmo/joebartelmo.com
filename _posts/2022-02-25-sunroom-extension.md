@@ -1,34 +1,9 @@
 ---
 title: "Sunroom Extension"
-categories:
-  - diy
-tags:
-  - diy
-  - interior
-  - house
-  - 1950s
-  - carpentry
-  - remodel
-  - windows
-  - 1950s
-  - remodel
-  - rustic
-  - modern
-  - sunroom
-  - stove
-  - wood stove
-  - alternative heat
-  - lvt
-  - trim
-  - siding
-  - chimney
-  - rolled roof
-toc: true
-toc_label: "Table of Contents"
-toc_icon: "cog"
-header:
-  og_image: /assets/images/sunroom/before-after-inside.png
-  
+date: 2022-02-25 12:00:00 -0500
+categories: [diy]
+tags: ["diy", "interior", "house", "1950s", "carpentry", "remodel", "windows", "rustic", "modern", "sunroom", "stove", "wood-stove", "alternative-heat"]
+image: /assets/images/sunroom/before-after-outside.png
 ---
 
 When we bought this house there was an unused concrete deck that was gingerly sitting outside a door. This deck's base was 4 inches of solid concrete, and it was supported by 8 inch concrete block walls which housed a garage. We looked at it when we first toured the house and said "that's just unused space, we can extend it if the house is a little small". Sure enough the living space was a tad too small.

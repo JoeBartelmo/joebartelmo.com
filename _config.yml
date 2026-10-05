@@ -1,68 +1,72 @@
 title: Joe Bartelmo
-name: Joe Bartelmo
-title_separator: "|"
-email: joebartelmo@gmail.com
+tagline: "Blog and personal development website"
 description: "Blog and personal development website. Home DIY, Computing Security, DevSecOps"
+avatar: "/assets/images/me2.jpg"
+paginate: 5
+paginate_path: "/page:num/"
 baseurl: ""
-url: "http://joebartelmo.com"
-github_username:  joebartelmo
+url: "https://joebartelmo.com"
+
+# Theme configuration
+theme: jekyll-theme-chirpy
+lang: en
+timezone: America/New_York
+
+# Author and profile defaults
+author:
+  name: Joe Bartelmo
+  email: joebartelmo@gmail.com
+  avatar: "/assets/images/me2.jpg"
+  url: "https://joebartelmo.com"
+
+github:
+  username: joebartelmo
+
+social:
+  name: Joe Bartelmo
+  email: joebartelmo@gmail.com
+  links:
+    - "https://github.com/joebartelmo"
+    - "https://www.linkedin.com/in/joebartelmo"
 
 # Build settings
 markdown: kramdown
-remote_theme: "mmistakes/minimal-mistakes"
-minimal_mistakes_skin: "contrast" 
-# "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum" "sunrise"
+highlighter: rouge
+kramdown:
+  input: GFM
+  syntax_highlighter: rouge
+
 plugins:
-  - jekyll-include-cache
-  - jekyll-feed
   - jekyll-sitemap
+  - jekyll-seo-tag
+  - jekyll-archives
   - jekyll-paginate
-  - jekyll-gist
+  - jekyll-include-cache
   - jemoji
 
 whitelist:
-  - jekyll-feed
   - jekyll-sitemap
+  - jekyll-seo-tag
+  - jekyll-archives
   - jekyll-paginate
-  - jekyll-gist
   - jemoji
 
-# Sass/SCSS
-sass:
-    style: compressed
-permalink: /:categories/:title/
-timezone: America/New_York
+permalink: /:title/
 encoding: "utf-8"
 markdown_ext: "markdown,mkdown,mkdn,mkd,md"
-
-
-# Conversion
-markdown: kramdown
-highlighter: rouge
 lsi: false
 excerpt_separator: "\n\n"
 incremental: false
 
-social:
-    links:
-        - "https://www.linkedin.com/in/joebartelmo"
 include:
-      - _pages
-      - _posts
-      - _computer_vision
-      - _development
-      - _security
-      - _diy
-author:
-    name: "Joe Bartelmo"
-    avatar: "/assets/images/me2.jpg"
-    bio: "Blog and personal development website. Home DIY, Computing Security, DevSecOps"
-    email: "joebartelmo@gmail.com"
-    uri: "http://joebartelmo.com"
-    linkedin: "joebartelmo"
-    github: "joebartelmo"
-    stackoverflow: "1938047/joe-bartelmo"
-    bitbucket: "joebartelmo"
+  - _pages
+  - _posts
+  - _computer_vision
+  - _development
+  - _diy
+
+exclude:
+  - .tmp_shed_previews
 
 # Collections
 collections:
@@ -81,110 +85,55 @@ collections:
 
 # Defaults
 defaults:
-  # _posts
   - scope:
       path: ""
       type: posts
     values:
-      layout: single
-      author_profile: true
-      read_time: true
-      comments: true
-      share: true
-      related: true
-  # _pages
+      layout: post
+      toc: true
+      pin: false
+
   - scope:
       path: ""
       type: pages
     values:
-      layout: single
-      author_profile: true
-      read_time: true
-      comments: false
-      share: true
-      related: true
-  # _portfolio
+      layout: page
+      toc: true
+
   - scope:
       path: ""
       type: diy
     values:
-      layout: single
-      author_profile: true
-      read_time: true
-      comments: false
-      share: true
-      related: true
-  - scope:
-      path: ""
-      type: security
-    values:
-      layout: single
-      author_profile: true
-      read_time: true
-      comments: false
-      share: true
-      related: true
-  # _computer_vision
+      layout: page
+      toc: true
+
   - scope:
       path: ""
       type: computer_vision
     values:
-      layout: single
-      author_profile: true
-      read_time: true
-      comments: false
-      share: true
-      related: true
-  # _development
+      layout: page
+      toc: true
+
   - scope:
       path: ""
       type: development
     values:
-      layout: single
-      author_profile: true
-      read_time: true
-      comments: false
-      share: true
-      related: true
+      layout: page
+      toc: true
 
-# Archives
-#  Type
-#  - GitHub Pages compatible archive pages built with Liquid ~> type: liquid (default)
-#  - Jekyll Archives plugin archive pages ~> type: jekyll-archives
-#  Path (examples)
-#  - Archive page should exist at path when using Liquid method or you can
-#    expect broken links (especially with breadcrumbs enabled)
-#  - <base_path>/tags/my-awesome-tag/index.html ~> path: /tags/
-#  - <base_path/categories/my-awesome-category/index.html ~> path: /categories/
-#  - <base_path/my-awesome-category/index.html ~> path: /
-category_archive:
-  type: liquid
-  path: /categories/
-tag_archive:
-  type: liquid
-  path: /tags/
-# https://github.com/jekyll/jekyll-archives
-# jekyll-archives:
-#   enabled:
-#     - categories
-#     - tags
-#   layouts:
-#     category: archive-taxonomy
-#     tag: archive-taxonomy
-#   permalinks:
-#     category: /categories/:name/
-#     tag: /tags/:name/
+# Chirpy archive configuration
+jekyll_archives:
+  enabled:
+    - categories
+    - tags
+  layouts:
+    category: category
+    tag: tag
+  permalinks:
+    category: /:name/
+    tag: /tags/:name/
 
-
-# HTML Compression
-# - http://jch.penibelst.de/
 compress_html:
   clippings: all
   ignore:
 envs: development
-comments:
-  provider: "facebook"
-  facebook:
-    appid: # optional
-    num_posts: # 5 (default)
-    colorscheme: "light"
