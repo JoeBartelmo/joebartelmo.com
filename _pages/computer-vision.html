@@ -1,11 +1,13 @@
 ---
 layout: page
 title: "Computer Vision"
-permalink: /computer_vision/
+permalink: /computer-vision/
+redirect_from:
+  - /computer_vision/
 ---
 
 <ul>
-  {% for post in site.categories.computer_vision %}
+  {% for post in site.categories['computer-vision'] %}
     <li><a href="{{ post.url | relative_url }}">{{ post.title }}</a></li>
   {% endfor %}
 </ul>

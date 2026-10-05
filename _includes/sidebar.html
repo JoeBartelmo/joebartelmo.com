@@ -13,6 +13,7 @@
   </header>
   <!-- .profile-wrapper -->
 
+  {% assign category_list = site.categories | sort %}
   <nav class="flex-column flex-grow-1 w-100 ps-0">
     <ul class="nav">
       <li class="nav-item{% if page.layout == 'home' %}{{ ' active' }}{% endif %}">
@@ -21,14 +22,12 @@
           <span>Home</span>
         </a>
       </li>
-    </ul>
-  </nav>
-
-  {% assign category_list = site.categories | sort %}
-  {% if category_list.size > 0 %}
-    <div class="sidebar-section mb-3 w-100 ps-0">
-      <h3 class="sidebar-heading mb-2">Categories</h3>
-      <ul class="nav flex-column">
+      <li class="nav-item{% if page.url == '/resume/' %}{{ ' active' }}{% endif %}">
+        <a href="{{ '/resume/' | relative_url }}" class="nav-link">
+          <i class="fa-fw fa-solid fa-file-lines"></i>
+          <span>Resume</span>
+        </a>
+      </li>
         {% for category in category_list %}
           {% assign cat_name = category[0] %}
           {% assign cat_slug = cat_name | slugify %}
@@ -39,9 +38,11 @@
             {% when 'computer-vision' or 'computer_vision' %}
               {% assign cat_label = 'Computer Vision' %}
               {% assign cat_icon = 'fa-solid fa-camera' %}
+              {% assign cat_slug = 'computer-vision' %}
             {% when 'computer-security' or 'computer_security' %}
               {% assign cat_label = 'Computer Security' %}
               {% assign cat_icon = 'fa-solid fa-shield-halved' %}
+              {% assign cat_slug = 'computer-security' %}
             {% when 'development' %}
               {% assign cat_label = 'Development' %}
               {% assign cat_icon = 'fa-solid fa-code' %}
@@ -59,9 +60,9 @@
             </a>
           </li>
         {% endfor %}
-      </ul>
-    </div>
-  {% endif %}
+    </ul>
+  </nav>
+
 
   <div class="sidebar-bottom d-flex flex-wrap align-items-center w-100">
     {% unless site.theme_mode == 'light' or site.theme_mode == 'dark' %}

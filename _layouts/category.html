@@ -10,9 +10,10 @@ layout: page
 </header>
 
 <main>
-  <ul class="post-list">
-    {% assign category_name = page.title | default: page.name %}
-    {% assign category_key = category_name | downcase | replace: '_', '-' %}
+  {% assign category_name = page.title | default: page.name %}
+  {% assign category_key = category_name | downcase | replace: '_', '-' %}
+
+  <div id="post-list" class="flex-grow-1 px-xl-1">
     {% for post in site.posts | sort: 'date' | reverse %}
       {% assign matched = false %}
       {% for post_category in post.categories %}
@@ -21,12 +22,42 @@ layout: page
           {% assign matched = true %}
         {% endif %}
       {% endfor %}
+
       {% if matched %}
-        <li>
-          <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
-          <span class="post-date"> — {{ post.date | date: "%Y-%m-%d" }}</span>
-        </li>
+        <article class="card-wrapper card">
+          <a href="{{ post.url | relative_url }}" class="post-preview row g-0 flex-md-row-reverse">
+            {% if post.image %}
+              <div class="col-md-5">
+                <div class="preview-img shimmer">
+                  <img src="{{ post.image | relative_url }}" alt="Preview Image" loading="lazy">
+                </div>
+              </div>
+            {% endif %}
+
+            <div class="{% if post.image %}col-md-7{% else %}col-12{% endif %}">
+              <div class="card-body d-flex flex-column">
+                <h1 class="card-title my-2 mt-md-0">{{ post.title }}</h1>
+
+                <div class="card-text content mt-0 mb-3">
+                  <p>{{ post.excerpt | strip_html | strip_newlines | truncate: 180 }}</p>
+                </div>
+
+                <div class="post-meta flex-grow-1 d-flex align-items-end">
+                  <div class="me-auto">
+                    <i class="far fa-calendar fa-fw me-1"></i>
+                    <time data-ts="{{ post.date | date: '%s' }}" data-df="ll">{{ post.date | date: "%b %-d, %Y" }}</time>
+
+                    {% if post.categories %}
+                      <i class="far fa-folder-open fa-fw me-1"></i>
+                      <span class="categories">{{ post.categories | join: ', ' }}</span>
+                    {% endif %}
+                  </div>
+                </div>
+              </div>
+            </div>
+          </a>
+        </article>
       {% endif %}
     {% endfor %}
-  </ul>
+  </div>
 </main>
