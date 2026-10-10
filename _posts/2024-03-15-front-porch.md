@@ -3,7 +3,7 @@ title: "Front Porch Replacement"
 date: 2024-03-15 12:00:00 -0400
 categories: [diy]
 tags: ["diy", "porch", "front porch", "trex", "deck", "railing", "exterior", "remodel"]
-image: /assets/images/front-porch/IMG_5213.jpg
+image: /assets/images/front-porch/IMG_5264.jpg
 ---
 
 This project was done in early 2024 for a house that wasn’t mine, and the original front porch was a 20-year-old build that was rotting out. The owner wanted something that would last a lifetime, so the goal was to rebuild it properly rather than patch the old structure and hope for the best.
@@ -35,7 +35,7 @@ The final work included the new landing, stair layout, and rails, so the porch f
 
 I didn't manage to snag a before photo, i'll keep looking and update the article if i find one.
 
-<figure class="half">
+<figure class="third">
   <a href="/assets/images/front-porch/IMG_5187.jpg"><img src="/assets/images/front-porch/IMG_5187.jpg"></a>
   <a href="/assets/images/front-porch/IMG_5187.jpg"><img src="/assets/images/front-porch/IMG_5188.jpg"></a>
   <a href="/assets/images/front-porch/IMG_5213.jpg"><img src="/assets/images/front-porch/IMG_5213.jpg"></a>
