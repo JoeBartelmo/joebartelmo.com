@@ -1,6 +1,6 @@
 ---
 title: "Kitchen Remodel"
-date: 2026-10-14 12:00:00 -0400
+date: 2026-10-13 12:00:00 -0400
 categories: [diy]
 tags: ["diy", "kitchen", "remodel", "cabinet", "cabinets", "before after", "white", "modern"]
 image: /assets/images/kitchen/before-after.jpg
