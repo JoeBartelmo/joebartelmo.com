@@ -4,11 +4,14 @@ date: 2024-03-15 12:00:00 -0400
 categories: [diy]
 tags: ["diy", "porch", "front porch", "trex", "deck", "railing", "exterior", "remodel"]
 image: /assets/images/front-porch/IMG_5264.jpg
+gallery: front-porch
 ---
 
 This project was done in early 2024 for a house that wasn’t mine, and the original front porch was a 20-year-old build that was rotting out. The owner wanted something that would last a lifetime, so the goal was to rebuild it properly rather than patch the old structure and hope for the best.
 
 The porch had no real footers, the framing was tired, and the stairs and landing were all part of the same failure point. I tore it down to the essentials and rebuilt it from the ground up with better drainage, better support, and a material choice that was built for long-term durability.
+
+[View the full gallery](/gallery/front-porch/){: .btn .btn-primary}
 
 ## The List
 

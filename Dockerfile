@@ -12,7 +12,9 @@ RUN bundle install
 COPY assets/ ./assets/
 COPY _data/ ./_data/
 COPY _includes/ ./_includes/
+COPY _layouts/ ./_layouts/
 COPY _pages/ ./_pages/
+COPY _plugins/ ./_plugins/
 COPY _posts/ ./_posts/
 COPY index.html ./
 COPY favicon.ico ./

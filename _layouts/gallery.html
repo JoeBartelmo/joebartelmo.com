@@ -1,0 +1,89 @@
+---
+layout: page
+---
+
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/lightgallery@2.8.0/css/lightgallery-bundle.min.css">
+
+<style>
+  .gallery-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(180px, 1fr));
+    gap: 1rem;
+    margin-top: 1.5rem;
+  }
+
+  .gallery-item {
+    display: block;
+    overflow: hidden;
+    border-radius: 0.75rem;
+    box-shadow: 0 8px 24px rgba(15, 23, 42, 0.1);
+    background: rgba(15, 23, 42, 0.04);
+    aspect-ratio: 1 / 1;
+  }
+
+  .gallery-item img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    transition: transform 0.2s ease;
+  }
+
+  .gallery-item:hover img {
+    transform: scale(1.03);
+  }
+
+  .lg-thumb-item {
+    transition: transform 0.2s ease, opacity 0.2s ease, border-color 0.2s ease;
+  }
+
+  .lg-thumb-item.active,
+  .lg-thumb-item:hover {
+    transform: translateY(-2px);
+  }
+</style>
+
+<h1>{{ page.title }}</h1>
+
+{% if page.images and page.images.size > 0 %}
+  <div id="lightgallery" class="gallery-grid">
+    {% for image in page.images %}
+      <a class="gallery-item" href="{{ image | relative_url }}" data-sub-html="{{ page.title }} {{ forloop.index }}">
+        <img src="{{ image | relative_url }}" alt="{{ page.title }} photo {{ forloop.index }}" loading="lazy">
+      </a>
+    {% endfor %}
+  </div>
+{% else %}
+  <p>No images were found for this gallery folder.</p>
+{% endif %}
+
+<script src="https://cdn.jsdelivr.net/npm/lightgallery@2.8.0/lightgallery.min.js"></script>
+<script>
+  document.addEventListener('DOMContentLoaded', function () {
+    const gallery = document.getElementById('lightgallery');
+
+    if (gallery && window.lightGallery) {
+      lightGallery(gallery, {
+        selector: '.gallery-item',
+        download: false,
+        loop: true,
+        thumbnail: true,
+        animateThumb: true,
+        showThumbByDefault: true,
+        thumbWidth: 120,
+        thumbHeight: 80,
+        currentPagerPosition: 'middle',
+        actualSize: false,
+        zoom: true,
+        fullScreen: true,
+        enableDrag: true,
+        enableTouch: true,
+        speed: 500,
+        mousewheel: true,
+        progressBar: true,
+        controls: true,
+        preload: 2,
+        counter: true,
+      });
+    }
+  });
+</script>

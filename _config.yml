@@ -7,6 +7,12 @@ paginate_path: "/page:num/"
 baseurl: ""
 url: "https://joebartelmo.com"
 
+gallery_folders:
+  - front-porch
+  - basement
+  - kitchen
+  - shed
+
 # Theme configuration
 theme: jekyll-theme-chirpy
 lang: en

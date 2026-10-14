@@ -102,6 +102,24 @@ Content rules
 - Avoid long setup, author intros, or generic background.
 - Prefer direct language like: "This was a straightforward fix," "The big issue was...," "I’d do this differently next time."
 
+Construction photos gallery CTA
+-
+Use a compact CTA button above the gallery when the project has a dedicated album route.
+
+```markdown
+## Construction Photos
+
+[View the full gallery](/gallery/<folder-name>/){: .btn .btn-primary}
+
+<figure class="third">
+  <a href="/assets/images/<folder-name>/image-1.jpg"><img src="/assets/images/<folder-name>/image-1.jpg"></a>
+  <a href="/assets/images/<folder-name>/image-2.jpg"><img src="/assets/images/<folder-name>/image-2.jpg"></a>
+  <a href="/assets/images/<folder-name>/image-3.jpg"><img src="/assets/images/<folder-name>/image-3.jpg"></a>
+</figure>
+```
+
+Keep the button small and direct. The goal is to offer a richer album without turning the article into a gallery landing page.
+
 Output preference
 -
 The final article should read like a practical recap, not a blog essay. It should give the reader a fast understanding of the project, the work done, and the result without excess prose.
